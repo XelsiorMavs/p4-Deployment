@@ -394,3 +394,10 @@ body.light-mode .abtfooter {
 body.light-mode .projtext {
     color: #17233a;
 }
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+    padding: 10px;
+  }
+}
